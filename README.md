@@ -7,9 +7,9 @@
 <h4 align="center">The 1st Fortnite Real Optimizer</h4>
 
 <p align="center">
-  <a href="[https://discord.gg/2a3NtxQwVe]">Download (Current + Beta Features)</a>
+  <a href="https://discord.gg/2a3NtxQwVe">Download (Current + Beta Features)</a>
   • 
-  <a href="[https://discord.gg/2a3NtxQwVe]">Comunidad</a>
+  <a href="https://discord.gg/2a3NtxQwVe">Comunidad</a>
 </p>
 
 ## Features
@@ -45,6 +45,4 @@
       
 ### Download
 
-<a href="[https://discord.gg/2a3NtxQwVe]">Zanite Last Version 1.4.x HOTFIX Windows</a>
-
-<img src="https://raw.githubusercontent.com/e-bitch/Zanite/main/logo.png" alt="Banner" </img>
+<a href="https://discord.gg/2a3NtxQwVe">Zanite Last Version 1.4.x HOTFIX Windows</a>
