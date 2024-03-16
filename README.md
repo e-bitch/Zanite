@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[https://raw.githubusercontent.com/e-bitch/Zanite/main/logo.png]" alt="Banner"</img>
+<img src="https://raw.githubusercontent.com/e-bitch/Zanite/main/logo.png" alt="Banner"</img>
   <br>
   Zanite (Optimizer)
   <br>
