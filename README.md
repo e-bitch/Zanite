@@ -47,4 +47,4 @@
 
 <a href="[https://discord.gg/2a3NtxQwVe]">Zanite Last Version 1.4.x HOTFIX Windows</a>
 
-<img src="https://raw.githubusercontent.com/e-bitch/Zanite/main/logo.png" </img>
+<img src="https://raw.githubusercontent.com/e-bitch/Zanite/main/logo.png" alt="Banner" </img>
