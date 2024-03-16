@@ -12,6 +12,9 @@
   <a href="https://discord.gg/2a3NtxQwVe">Comunidad</a>
 </p>
 
+## About 
+Zanite Is The first program that compiles all the Real Working Fortnite Tweaks, and makes them work on Any Windows PC. Additionally, it is 100% OpenSource, allowing you to self-compile (I won't make a tutorial, so join discord and download or learn some basic coding). Ily.
+
 ## Features
 
 -   UltraLow Grapichs
